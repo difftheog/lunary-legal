@@ -76,7 +76,7 @@ We may update these Terms at any time. Updates will be reflected by revising the
 
 For questions or concerns regarding these Terms:
 
-**Support Server:** [https://discord.gg/K8gs4hBBVQ]
+**Support Server:** https://discord.gg/K8gs4hBBVQ
 
 ---
 
