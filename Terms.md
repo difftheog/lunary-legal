@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated:** 6 March, 2026
+**Last Updated:** 23 March, 2026
 
 ---
 
@@ -76,7 +76,7 @@ We may update these Terms at any time. Updates will be reflected by revising the
 
 For questions or concerns regarding these Terms:
 
-**Support Server:** https://discord.gg/K8gs4hBBVQ
+**Support Server:** https://dsc.gg/luna-support
 
 ---
 
